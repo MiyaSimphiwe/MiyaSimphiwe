@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MiyaSimphiwe
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning php lang.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on developping
 - 📫 How 0787830758 you can add me on app
 
 <!---
